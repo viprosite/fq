@@ -1,0 +1,6 @@
+hysteria2://vipro@[2a00:1911:1:7ac4:0:1:380:bd26]:36666/?insecure=1#anyFastCloud-hy2
+vless://c9934c10-aa0d-4e1b-ae7e-8e4e7ec2a5f5@[2a00:1911:1:7ac4:0:1:380:bd26]:53159?encryption=none&security=none&type=ws&path=%2Fc9934c10#anyFastCloud-80
+vless://c9934c10-aa0d-4e1b-ae7e-8e4e7ec2a5f5@af.vipro.us.kg:80?encryption=none&security=none&type=ws&host=af.vipro.us.kg&path=%2Fc9934c10#anyFastCloud-80-clone
+vless://209587aa-616f-44cd-9b10-01c759479c64@[2a00:1911:1:7ac4:0:1:380:bd26]:17545?encryption=none&security=tls&sni=af.vipro.us.kg&alpn=http%2F1.1%2Ch2&type=ws&path=%2F209587aa#anyFastCloud-443
+trojan://R99BArfmqU@[2a00:1911:1:7ac4:0:1:380:bd26]:22648?type=ws&path=%2F22#anyFastCloud-trojan-ws
+trojan://YpOhdlMssv@[2a00:1911:1:7ac4:0:1:380:bd26]:34981?type=httpupgrade&host=ser.vipro.us.kg&path=%2F#anyFastCloud-trojan-httpup
